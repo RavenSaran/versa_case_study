@@ -51,7 +51,7 @@ printToConsole(result);
 const desktopPath = path.join(
     os.homedir(),
     "Desktop",
-    "case_study_versa"
+    "versa_case_study"
 );
 
 // create folder if not exists
